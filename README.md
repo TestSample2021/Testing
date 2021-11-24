@@ -1,2 +1,3 @@
 # Testing
-TTY
+
+This is my first repository
